@@ -1,0 +1,7 @@
+python_speech_features
+tensorflow-gpu
+scipy
+pysoundfile
+
+[openfst]
+openfst
